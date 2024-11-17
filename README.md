@@ -8,7 +8,7 @@
 # Background
 Motivated by a desire to better understand and navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
 
-Data hails from Luke [SQL Course](https://www.lukebarousse.com/sql) which provides the insights on job titles, salaries, locations, and essential skills.
+Data hails from [SQL Course](https://www.lukebarousse.com/sql) which provides the insights on job titles, salaries, locations, and essential skills.
 
 ### The questions I wanted to answer through my SQL queries were:
 1. What are the top-paying data analyst jobs?
